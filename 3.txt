@@ -1,7 +1,1 @@
-masters commit
-master commit1
-qwerty
-qwert
-qwer
-qwe
-qw
+txt
