@@ -1,4 +1,7 @@
+<<<<<<< Updated upstream
 stash
+=======
+>>>>>>> Stashed changes
 second task
 
 import something 2
