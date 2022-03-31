@@ -1,7 +1,5 @@
-<<<<<<< Updated upstream
+lala
 stash
-=======
->>>>>>> Stashed changes
 third task 2
 third task
 second task
